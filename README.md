@@ -17,6 +17,7 @@ The study evaluates **R1234yf, R134a and R744** as zero-ODP alternatives to trad
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/Akshat-Singh-Kshatriya/VCRS-4E-Analysis.git
+    cd VCRS-4E-Analysis
     ```
 2.  **Install Dependencies:**
     ```bash
