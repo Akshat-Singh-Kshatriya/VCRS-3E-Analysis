@@ -1,8 +1,8 @@
 # Vapour-Compression-Refrigeration-System-4E-Analysis
-4E (Energy, Exergy, Economic, and Environmental) performance analysis and optimization of a Vapour Compression Refrigeration System (VCRS) using R1234yf, R134a, and R744 refrigerants.
+3E (Energy, Exergy, Economic) performance analysis and optimization of a Vapour Compression Refrigeration System (VCRS) using R1234yf, R134a, and R744 refrigerants.
 
 # Project Overview
-This project provides a **4E (Energy, Exergy, Economic, and Environmental)** analysis of a Vapour Compression Refrigeration System. 
+This project provides a **3E (Energy, Exergy, Economic)** analysis of a Vapour Compression Refrigeration System. 
 The study evaluates **R1234yf, R134a and R744** as zero-ODP alternatives to traditional refrigerants using a computational model.
 
 **Energy:** Evaluates the **Coefficient of Performance (COP)** by analyzing refrigerating effect versus compressor.
@@ -10,8 +10,6 @@ The study evaluates **R1234yf, R134a and R744** as zero-ODP alternatives to trad
 **Exergy:** Quantifies **Exergy Destruction ($E_d$)** and **Exergetic Efficiency ($\eta_{ex}$)** to identify system irreversibilities.
 
 **Economic:** Assesses the cost-viability of substituting refrigerants based on thermodynamic performance.
-
-**Environmental:** Compares **Global Warming Potential (GWP)** and **Ozone Depletion Potential (ODP)** across the tested fluids.
 
 ## How to Run the Model
 1.  **Clone the Repository:**
