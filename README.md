@@ -9,8 +9,6 @@ The study evaluates **R1234yf and R1234ze(E)** as zero-ODP alternatives to tradi
 
 **Exergy:** Quantifies **Exergy Destruction ($E_d$)** and **Exergetic Efficiency ($\eta_{x}$)** to identify system irreversibilities.
 
-**Economic:** Assesses the cost-viability of substituting refrigerants based on thermodynamic performance.
-
 ## How to Run the Model
 1.  **Clone the Repository:**
     ```bash
