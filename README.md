@@ -1,4 +1,4 @@
-# Vapour-Compression-Refrigeration-System-3E-Analysis
+# Vapour-Compression-Refrigeration-System-2E-Analysis
 Energy and Exergy performance analysis and optimization of a Vapour Compression Refrigeration System (VCRS) using R1234yf and R1234ze(E) refrigerants.
 
 # Project Overview
