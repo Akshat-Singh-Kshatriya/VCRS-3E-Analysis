@@ -1,13 +1,13 @@
 # Vapour-Compression-Refrigeration-System-3E-Analysis
-3E (Energy, Exergy, Economic) performance analysis and optimization of a Vapour Compression Refrigeration System (VCRS) using R1234yf, R1234ze(E), and R744 refrigerants.
+Energy and Exergy performance analysis and optimization of a Vapour Compression Refrigeration System (VCRS) using R1234yf and R1234ze(E) refrigerants.
 
 # Project Overview
-This project provides a **3E (Energy, Exergy, Economic)** analysis of a Vapour Compression Refrigeration System. 
-The study evaluates **R1234yf, R1234ze(E) and R744** as zero-ODP alternatives to traditional refrigerants using a computational model.
+This project provides a **Energy and Exergy** analysis of a Vapour Compression Refrigeration System. 
+The study evaluates **R1234yf and R1234ze(E)** as zero-ODP alternatives to traditional refrigerants using a computational model where **R744** was used for the validation purpose.
 
-**Energy:** Evaluates the **Coefficient of Performance (COP)** by analyzing refrigerating effect versus compressor.
+**Energy:** Evaluates the **Coefficient of Performance (COP), Energyy Efficiency Ratio (EER), Compressor Work and Mass Flow Rate** by analyzing refrigerating effect by Evaporation Temperature and keeping condenser temperature constant. In other case varying Condenser Temperature keeping the evaporator temperature constant.
 
-**Exergy:** Quantifies **Exergy Destruction ($E_d$)** and **Exergetic Efficiency ($\eta_{ex}$)** to identify system irreversibilities.
+**Exergy:** Quantifies **Exergy Destruction ($E_d$)** and **Exergetic Efficiency ($\eta_{x}$)** to identify system irreversibilities.
 
 **Economic:** Assesses the cost-viability of substituting refrigerants based on thermodynamic performance.
 
