@@ -24,10 +24,7 @@ The study evaluates **R1234yf, R134a and R744** as zero-ODP alternatives to trad
     ```bash
     pyenv
     ```
-3.  **Run the Analysis:**
-    ```bash
-    vcrs
-    ```
+
  
 
 
